@@ -11,13 +11,13 @@ Website Link: https://instant-ml.streamlit.app
 Clone the project
 
 ```bash
-  git clone https://github.com/ShahDishank/instant_ml
+  git clone https://github.com/hxx-12345678/Instant_ML
 ```
 
 Go to the project directory
 
 ```bash
-  cd instant-ml
+  cd Instant_ML
 ```
 
 Install dependencies
@@ -47,4 +47,4 @@ If you have any feedback, please reach out to me at shahdishank24@gmail.com
 
 ## Author
 
-- [@hempatel](https://github.com/ShahDishank)
+- [@hempatel](https://github.com/hxx-12345678)
